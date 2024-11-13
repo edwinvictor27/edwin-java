@@ -1,0 +1,757 @@
+Name;Age;PClass;Sex;Survived
+Allen, Miss Elisabeth Walton;29.0;1st;female;1
+Allison, Miss Helen Loraine;2.0;1st;female;0
+Allison, Mr Hudson Joshua Creighton;30.0;1st;male  ;0
+Allison, Mrs Hudson JC (Bessie Waldo Daniels);25.0;1st;female;0
+Allison, Master Hudson Trevor;0.92;1st;male  ;1
+Anderson, Mr Harry;47.0;1st;male  ;1
+Andrews, Miss Kornelia Theodosia;63.0;1st;female;1
+Andrews, Mr Thomas, jr;39.0;1st;male  ;0
+Appleton, Mrs Edward Dale (Charlotte Lamson);58.0;1st;female;1
+Artagaveytia, Mr Ramon;71.0;1st;male  ;0
+Astor, Colonel John Jacob;47.0;1st;male  ;0
+Astor, Mrs John Jacob (Madeleine Talmadge Force);19.0;1st;female;1
+Baxter, Mrs James (Helene DeLaudeniere Chaput);50.0;1st;female;1
+Baxter, Mr Quigg Edmond;24.0;1st;male  ;0
+Beattie, Mr Thomson;36.0;1st;male  ;0
+Beckwith, Mr Richard Leord;37.0;1st;male  ;1
+Beckwith, Mrs Richard Leord (Sallie Monypeny);47.0;1st;female;1
+Behr, Mr Karl Howell;26.0;1st;male  ;1
+Birnbaum, Mr Jakob;25.0;1st;male  ;0
+Bishop, Mr Dickinson H;25.0;1st;male  ;1
+Bishop, Mrs Dickinson H (Helen Walton);19.0;1st;female;1
+Bjornstrm-Steffansson, Mr Mauritz Hakan;28.0;1st;male  ;1
+Blackwell, Mr Stephen Weart;45.0;1st;male  ;0
+Blank, Mr Henry;39.0;1st;male  ;1
+Bonnell, Miss Caroline;30.0;1st;female;1
+Bonnell, Miss Elizabeth;58.0;1st;female;1
+Bowen, Miss Grace Scott;45.0;1st;female;1
+Bowerman, Miss Elsie Edith;22.0;1st;female;1
+Brady, Mr John Bertram;41.0;1st;male  ;0
+Brandeis, Mr Emil;48.0;1st;male  ;0
+Brown, Mrs James Joseph (Margaret Molly" Tobin)";44.0;1st;female;1
+Brown, Mrs John Murray (Caroline Lane Lamson);59.0;1st;female;1
+Bucknell, Mrs William Robert (Emma Eliza Ward);60.0;1st;female;1
+Butt, Major Archibald Willingham;45.0;1st;male  ;0
+Candee, Mrs Edward (Helen Churchill Hungerford);53.0;1st;female;1
+Cardeza, Mrs James Warburton Martinez (Charlotte Wardle Drake);58.0;1st;female;1
+Cardeza, Mr Thomas Drake Martinez;36.0;1st;male  ;1
+Carlsson, Mr Frans Olof;33.0;1st;male  ;0
+Carter, Mr William Ernest;36.0;1st;male  ;1
+Carter, Mrs William Ernest (Lucile Polk);36.0;1st;female;1
+Carter, Miss Lucile Polk;14.0;1st;female;1
+Carter, Master William T II;11.0;1st;male  ;1
+Case, Mr Howard Brown;49.0;1st;male  ;0
+Cavendish, Mr Tyrell William;36.0;1st;male  ;0
+Chaffee, Mr Herbert Fuller;46.0;1st;male  ;0
+Chaffee, Mrs Herbert Fuller (Carrie Constance Toogood);47.0;1st;female;1
+Chambers, Mr Norman Campbell;27.0;1st;male  ;1
+Chambers, Mrs Norman Campbell (Bertha Griggs);31.0;1st;female;1
+Clark, Mr Walter Miller;27.0;1st;male  ;0
+Clark, Mrs Walter Miller (Virginia McDowell);26.0;1st;female;1
+Compton, Mrs Alexander Taylor (Mary Eliza Ingersoll);64.0;1st;female;1
+Compton, Mr Alexander Taylor, Jr;37.0;1st;male  ;0
+Compton, Miss Sara Rebecca;39.0;1st;female;1
+Cornell, Mrs Robert Clifford (Malvi Helen Lamson);55.0;1st;female;1
+Crosby, Captain Edward Gifford;70.0;1st;male  ;0
+Crosby, Mrs Edward Gifford (Catherine Elizabeth Halstead);69.0;1st;female;1
+Crosby, Miss Harriet R;36.0;1st;female;1
+Cumings, Mr John Bradley;39.0;1st;male  ;0
+Cumings, Mrs John Bradley (Florence Briggs Thayer);38.0;1st;female;1
+Daniel, Mr Robert Williams;27.0;1st;male  ;1
+Davidson, Mr Thornton;31.0;1st;male  ;0
+Davidson, Mrs Thornton (Orian Hays);27.0;1st;female;1
+Dick, Mr Albert Adrian;31.0;1st;male  ;1
+Dick, Mrs Albert Adrian Vera Gillespie;17.0;1st;female;1
+Dodge, Master Washington;4.0;1st;male  ;1
+Douglas, Mrs Frederick Charles (Suzette Baxter);27.0;1st;female;1
+Douglas, Mr Walter Dold;50.0;1st;male  ;0
+Douglas, Mrs Walter Dold (Mahala Dutton);48.0;1st;female;1
+Duff Gordon, Sir Cosmo Edmund;49.0;1st;male  ;1
+Duff Gordon, Lady (Lucille Wallace Sutherland);48.0;1st;female;1
+Dulles, Mr William Crothers;39.0;1st;male  ;0
+Earnshaw, Mrs Boulton (Olive Potter);23.0;1st;female;1
+Eustis, Miss Elizabeth Mussey;53.0;1st;female;1
+Evans, Miss Edith Corse;36.0;1st;female;0
+Foreman, Mr Benjamin Laventall;30.0;1st;male  ;0
+Fortune, Miss Alice Elizabeth;24.0;1st;female;1
+Fortune, Mr Charles Alexander;19.0;1st;male  ;0
+Fortune, Miss Ethel Flora;28.0;1st;female;1
+Fortune, Miss Mabel;23.0;1st;female;1
+Fortune, Mr Mark;64.0;1st;male  ;0
+Fortune, Mrs Mark (Mary McDougald);60.0;1st;female;1
+Frauenthal, Dr Henry William;49.0;1st;male  ;1
+Frauenthal, Mr Isaac Gerald;44.0;1st;male  ;1
+Frolicher, Miss Marguerite;22.0;1st;female;1
+Frolicher-Stehli, Mr Maxmillian;60.0;1st;male  ;1
+Frolicher-Stehli, Mrs Maxmillian (Margaretha Emerentia Stehli);48.0;1st;female;1
+Futrelle, Mr Jacques;37.0;1st;male  ;0
+Futrelle, Mrs Jacques (May Peel);35.0;1st;female;1
+Gee, Mr Arthur H;47.0;1st;male  ;0
+Gibson, Miss Dorothy;22.0;1st;female;1
+Gibson, Mrs Leord (Pauline C Boeson);45.0;1st;female;1
+Goldenberg, Mr Samuel L;49.0;1st;male  ;1
+Goldschmidt, Mr George B;71.0;1st;male  ;0
+Gracie, Colonel Archibald IV;54.0;1st;male  ;1
+Graham, Mr George Edward;38.0;1st;male  ;0
+Graham, Miss Margaret Edith;19.0;1st;female;1
+Graham, Mrs William Thompson (Edith Junkins);58.0;1st;female;1
+Greenfield, Mrs Leo David (Blanche Strouse);45.0;1st;female;1
+Greenfield, Mr William Bertram;23.0;1st;male  ;1
+Guggenheim, Mr Benjamin;46.0;1st;male  ;0
+Harder, Mr George Achilles;25.0;1st;male  ;1
+Harder, Mrs George Achilles (Dorothy Ann);21.0;1st;female;1
+Harper, Mr Henry Sleeper;48.0;1st;male  ;1
+Harper, Mrs Henry Sleeper (My Haxtun);49.0;1st;female;1
+Harris, Mr Henry Birkhardt;45.0;1st;male  ;0
+Harris, Mrs Henry Birkhardt (Irene Wallach);36.0;1st;female;1
+Hays, Mr Charles Melville;55.0;1st;male  ;0
+Hays, Mrs Charles Melville (Clara Jennings Gregg);52.0;1st;female;1
+Hays, Miss Margaret Bechstein;24.0;1st;female;1
+Hippach, Miss Jean Gertrude;16.0;1st;female;1
+Hippach, Mrs Louis Albert (Ida Sophia Fischer);44.0;1st;female;1
+Hogeboom, Mrs John C (An Andrews);51.0;1st;female;1
+Holverson, Mr Alexander Oskar;42.0;1st;male  ;0
+Holverson, Mrs Alexander Oskar (Mary Aline Towner);35.0;1st;female;1
+Homer, Mr Harry;35.0;1st;male  ;1
+Hoyt, Mr Frederick Maxfield;38.0;1st;male  ;1
+Hoyt, Mrs Frederick Maxfield (Jane Anne Forby);35.0;1st;female;1
+Isham, Miss Anne Elizabeth;50.0;1st;female;0
+Ismay, Mr Joseph Bruce;49.0;1st;male  ;1
+Jones, Mr Charles Cresson;46.0;1st;male  ;0
+Kent, Mr Edward Austin;58.0;1st;male  ;0
+Kenyon, Mr Frederick R;41.0;1st;male  ;0
+Kimball, Mr Edwin Nelson Jr;42.0;1st;male  ;1
+Kimball, Mrs Edwin Nelson Jr (Gertrude Parsons);40.0;1st;female;1
+Lindeberg-Lind, Mr Erik Gustaf;42.0;1st;male  ;0
+Lindstrom, Mrs Carl Johan (Sigrid Posse);55.0;1st;female;1
+Lines, Mrs Ernest H (Elizabeth Lindsey James);50.0;1st;female;1
+Lines, Miss Mary Conover;16.0;1st;female;1
+Long, Mr Milton Clyde;29.0;1st;male  ;0
+Longley, Miss Gretchen Fiske;21.0;1st;female;1
+Loring, Mr Joseph Holland;30.0;1st;male  ;0
+Madill, Miss Georgette Alexandra;15.0;1st;female;1
+Maguire, Mr John Edward;30.0;1st;male  ;0
+McCaffry, Mr Thomas Francis;46.0;1st;male  ;0
+McCarthy, Mr Timothy J;54.0;1st;male  ;0
+McGough, Mr James R;36.0;1st;male  ;1
+Meyer, Mr Edgar Joseph;28.0;1st;male  ;0
+Millet, Mr Francis Davis;65.0;1st;male  ;0
+Mihan, Miss Daisy E;33.0;1st;female;1
+Mihan, Dr William Edward;44.0;1st;male  ;0
+Mihan, Mrs William Edward (Lillian E Thorpe);37.0;1st;female;1
+Molson, Mr Harry Markland;55.0;1st;male  ;0
+Moore, Mr Clarence Bloomfield;47.0;1st;male  ;0
+tsch, Mr Charles H;36.0;1st;male  ;0
+Newell, Mr Arthur Webster;58.0;1st;male  ;0
+Newell, Miss Madeleine;31.0;1st;female;1
+Newell, Miss Marjorie;23.0;1st;female;1
+Newsom, Miss Helen Monypeny;19.0;1st;female;1
+Nicholson, Mr Arthur Ernest;64.0;1st;male  ;0
+Ostby, Mr Engelhart Cornelius;64.0;1st;male  ;0
+Ostby, Miss Helen Raghnild;22.0;1st;female;1
+Ovies y Rodriguez, Mr Servando;28.0;1st;male  ;0
+Payne, Mr Vivian Ponsonby;22.0;1st;male  ;0
+Pesco, Mr Victor de Satode;18.0;1st;male  ;0
+Pesco, Mrs Victor de Satode (Josefa de Soto);17.0;1st;female;1
+Peuchen, Major Arthur Godfrey;52.0;1st;male  ;1
+Porter, Mr Walter Chamberlain;46.0;1st;male  ;0
+Potter, Mrs Thomas, Jr (Lily Alexenia Wilson);56.0;1st;female;1
+Robert, Mrs Edward Scott (Elisabeth Walton McMillan);43.0;1st;female;1
+Roebling, Mr Washington Augustus 2nd;31.0;1st;male  ;0
+Rosenbaum (Russell), Miss Edith Louise;33.0;1st;female;1
+Rothes, the Countess of (Noel Lucy Martha Dyer-Edwardes);27.0;1st;female;1
+Rothschild, Mr Martin;55.0;1st;male  ;0
+Rothschild, Mrs Martin (Elizabeth L Barrett);54.0;1st;female;1
+Ryerson, Mr Arthur Larned;61.0;1st;male  ;0
+Ryerson, Mrs Arthur Larned (Emily Maria Borie);48.0;1st;female;1
+Ryerson, Miss Emily Borie;18.0;1st;female;1
+Ryerson, Master John Borie;13.0;1st;male  ;1
+Ryerson, Miss Susan (Suzette) Parker;21.0;1st;female;1
+Seward, Mr Frederic Kimber;34.0;1st;male  ;1
+Shutes, Miss Elizabeth W;40.0;1st;female;1
+Silverthorne, Mr Spencer Victor;36.0;1st;male  ;1
+Silvey, Mr William Baird;50.0;1st;male  ;0
+Silvey, Mrs William Baird (Alice Munger);39.0;1st;female;1
+Simonius-Blumer, Col Alfons;56.0;1st;male  ;1
+Sloper, Mr William Thompson;28.0;1st;male  ;1
+Smart, Mr John Montgomery;56.0;1st;male  ;0
+Smith, Mr James Clinch;56.0;1st;male  ;0
+Smith, Mr Lucien Philip;24.0;1st;male  ;0
+Smith, Mrs Lucien Philip (Mary Eloise Hughes;18.0;1st;female;1
+Snyder, Mr John Pillsbury;24.0;1st;male  ;1
+Snyder, Mrs John Pillsbury (Nelle Stevenson);23.0;1st;female;1
+Spedden, Mr Frederick Oakley;45.0;1st;male  ;1
+Spedden, Mrs Frederick Oakley (Margaretta Corning Stone);40.0;1st;female;1
+Spedden, Master Robert Douglas;6.0;1st;male  ;1
+Spencer, Mr William Augustus;57.0;1st;male  ;0
+Staehlin, Dr Max;32.0;1st;male  ;1
+Stead, Mr William Thomas;62.0;1st;male  ;0
+Stengel, Mr Charles Emil Henry;54.0;1st;male  ;1
+Stengel, Mrs Charles Emil Henry (Annie May Morris);43.0;1st;female;1
+Stephenson, Mrs Walter Bertram (Martha Eustis);52.0;1st;female;1
+Stone, Mrs George Nelson (Martha E);62.0;1st;female;1
+Straus, Mr Isidor;67.0;1st;male  ;0
+Straus, Mrs Isidor (Ida Blun);63.0;1st;female;0
+Sutton, Mr Frederick;61.0;1st;male  ;0
+Swift, Mrs Frederick Joel (Margaret Welles Barron);46.0;1st;female;1
+Taussig, Mr Emil;52.0;1st;male  ;0
+Taussig, Mrs Emil (Tillie Mandelbaum);39.0;1st;female;1
+Taussig, Miss Ruth;18.0;1st;female;1
+Taylor, Mr Elmer Zebley;48.0;1st;male  ;1
+Thayer, Mr John Borland;49.0;1st;male  ;0
+Thayer, Mrs John Borland (Marian Longstreth Morris);39.0;1st;female;1
+Thayer, Mr John Borland, jr;17.0;1st;male  ;1
+Thorne, Mr George (alias of: Mr George Rosenshine);46.0;1st;male  ;0
+Tucker, Mr Gilbert Milligan, jr;31.0;1st;male  ;1
+Van Derhoef, Mr Wyckoff;61.0;1st;male  ;0
+Walker, Mr William Anderson;47.0;1st;male  ;0
+Warren, Mr Frank Manley;64.0;1st;male  ;0
+Warren, Mrs Frank Manley (An S Atkinson);60.0;1st;female;1
+Weir, Col John;60.0;1st;male  ;0
+White, Mrs J Stuart (Ella Holmes);55.0;1st;female;1
+White, Mr Percival Wayland;54.0;1st;male  ;0
+White, Mr Richard Frasar;21.0;1st;male  ;0
+Wick, Mr George Dennick;57.0;1st;male  ;0
+Wick, Mrs George Dennick (Martha Hitchcock);45.0;1st;female;1
+Wick, Miss Mary talie;31.0;1st;female;1
+Widener, Mr George Dunton;50.0;1st;male  ;0
+Widener, Mrs George Dunton (Eleanor Elkins);50.0;1st;female;1
+Widener, Mr Harry Elkins;27.0;1st;male  ;0
+Willard, Miss Constance;20.0;1st;female;1
+Williams, Mr Charles Duane;51.0;1st;male  ;0
+Williams, Mr Richard Norris II;21.0;1st;male  ;1
+Young, Miss Marie Grice;36.0;1st;female;1
+Harrison, Mr William   Henry;40.0;1st;male  ;0
+Keeping, Mr Edwin;32.0;1st;male  ;0
+Ringhini, Mr Sante;33.0;1st;male  ;0
+Abelson, Mr Samuel;30.0;2nd;male  ;0
+Abelson, Mrs Samuel (An);28.0;2nd;female;1
+Andrew, Mr Edgar Samuel;18.0;2nd;male  ;0
+Angle, Mr William A;34.0;2nd;male  ;0
+Angle, Mrs William A (Florence);32.0;2nd;female;1
+Ashby, Mr John;57.0;2nd;male  ;0
+Bailey, Mr Percy Andrew;18.0;2nd;male  ;0
+Baimbrigge, Mr Charles R;23.0;2nd;male  ;0
+Balls, Mrs Ada E Hall;36.0;2nd;female;1
+Banfield, Mr Frederick J;28.0;2nd;male  ;0
+Bateman, Rev Robert James;51.0;2nd;male  ;0
+Beane, Mr Edward;32.0;2nd;male  ;1
+Beane, Mrs Edward (Ethel Clarke);19.0;2nd;female;1
+Beauchamp, Mr Henry James;28.0;2nd;male  ;0
+Becker, Mrs Allen Oliver (Nellie E Baumgardner);36.0;2nd;female;1
+Becker, Miss Marion Louise;4.0;2nd;female;1
+Becker, Master Richard F;1.0;2nd;male  ;1
+Becker, Miss Ruth Elizabeth;12.0;2nd;female;1
+Beesley, Mr Lawrence;34.0;2nd;male  ;1
+Bentham, Miss Lilian W;19.0;2nd;female;1
+Berriman, Mr William S;23.0;2nd;male  ;0
+Botsford, Mr William Hull;26.0;2nd;male  ;0
+Bracken, Mr James H;27.0;2nd;male  ;0
+Brown, Miss Edith E;15.0;2nd;female;1
+Brown, Mr Thomas William Solomon;45.0;2nd;male  ;0
+Brown, Mrs Thomas William Solomon (Elizabeth C);40.0;2nd;female;1
+Bryhl, Miss Dagmar;20.0;2nd;female;1
+Bryhl, Mr Kurt Arnold Gottfrid;25.0;2nd;male  ;0
+Buss, Miss Kate;36.0;2nd;female;1
+Butler, Mr Regild Fenton;25.0;2nd;male  ;0
+Bystrom, Mrs Caroli;42.0;2nd;female;1
+Caldwell, Mr Albert Francis;26.0;2nd;male  ;1
+Caldwell, Mrs Albert Francis (Sylvia Mae Harbaugh);26.0;2nd;female;1
+Caldwell, Master Alden Gates;0.83;2nd;male  ;1
+Cameron, Miss Clear;31.0;2nd;female;1
+Carbines, Mr William;19.0;2nd;male  ;0
+Carter, Rev Ernest Courtey;54.0;2nd;male  ;0
+Carter, Mrs Ernest Courtey (Lillian Hughes);44.0;2nd;female;0
+Chapman, Mr Charles Henry;52.0;2nd;male  ;0
+Chapman, Mr John Henry;30.0;2nd;male  ;0
+Chapman, Mrs John Henry (Elizabeth Lawry);30.0;2nd;female;0
+Clarke, Mr Charles V;29.0;2nd;male  ;0
+Coleridge, Mr Regild Charles;29.0;2nd;male  ;0
+Collander, Mr Erik;27.0;2nd;male  ;0
+Collett, Mr Sidney C Stuart;24.0;2nd;male  ;1
+Collyer, Mr Harvey;35.0;2nd;male  ;0
+Collyer, Mrs Harvey (Charlotte Tate);31.0;2nd;female;1
+Collyer, Miss Marjorie;8.0;2nd;female;1
+Cook, Mrs Sele Rogers;22.0;2nd;female;0
+Corbett, Mrs Walter H (Irene Colvin);30.0;2nd;female;0
+Cotterill, Mr Harry;20.0;2nd;male  ;0
+Davies, Mr Charles Henry;21.0;2nd;male  ;0
+Davis, Mrs Agnes;49.0;2nd;female;1
+Davis, Master John Morgan;8.0;2nd;male  ;1
+Davis, Miss Mary;28.0;2nd;female;1
+Deacon, Mr Percy;18.0;2nd;male  ;0
+del Carlo, Mr Sebastiano;28.0;2nd;male  ;0
+del Carlo, Mrs Sebastiano (Argenia Genovese);22.0;2nd;female;1
+Denbury, Mr Herbert;25.0;2nd;male  ;0
+Dibden, Mr William;18.0;2nd;male  ;0
+Doling, Mrs Ada;32.0;2nd;female;1
+Doling, Miss Elsie;18.0;2nd;female;1
+Drew, Mr James Vivian;42.0;2nd;male  ;0
+Drew, Mrs James Vivian (Lulu Thorne Christian);34.0;2nd;female;1
+Drew, Master Marshall Brines;8.0;2nd;male  ;1
+Eitemiller, Mr George Floyd;23.0;2nd;male  ;0
+Ender, Mr Ingvar;21.0;2nd;male  ;0
+Fahlstrom, Mr Arne Jos;19.0;2nd;male  ;0
+Fox, Mr Stanley H;38.0;2nd;male  ;0
+Funk, Miss Annie C;38.0;2nd;female;0
+Fynney, Mr Joseph J;35.0;2nd;male  ;0
+Gale, Mr Harry;35.0;2nd;male  ;0
+Gale, Mr Shadrach;38.0;2nd;male  ;0
+Garside, Miss Ethel;24.0;2nd;female;1
+Gaskell, Mr Alfred;16.0;2nd;male  ;0
+Gavey, Mr Lawrence;26.0;2nd;male  ;0
+Gilbert, Mr William;45.0;2nd;male  ;0
+Giles, Mr Edgar;24.0;2nd;male  ;0
+Giles, Mr Frederick;21.0;2nd;male  ;0
+Giles, Mr Ralph;22.0;2nd;male  ;0
+Gillespie, Mr William;34.0;2nd;male  ;0
+Givard, Mr Hans Christensen;30.0;2nd;male  ;0
+Greenberg, Mr Samuel;50.0;2nd;male  ;0
+Hale, Mr Regild;30.0;2nd;male  ;0
+Hamalainen, Mrs William (An);23.0;2nd;female;1
+Hamalainen, Master Viljo;1.0;2nd;male  ;1
+Harbeck, Mr William H;44.0;2nd;male  ;0
+Harper, Rev John;28.0;2nd;male  ;0
+Harper, Miss Ni;6.0;2nd;female;1
+Harris, Mr George;30.0;2nd;male  ;1
+Hart, Mr Benjamin;43.0;2nd;male  ;0
+Hart, Mrs Benjamin (Esther);45.0;2nd;female;1
+Hart, Miss Eva Miriam;7.0;2nd;female;1
+Herman, Miss Alice;24.0;2nd;female;1
+Herman, Miss Kate;24.0;2nd;female;1
+Herman, Mr Samuel;49.0;2nd;male  ;0
+Herman, Mrs Samuel (Jane Laver);48.0;2nd;female;1
+Hickman, Mr Leord Mark;34.0;2nd;male  ;0
+Hickman, Mr Lewis;32.0;2nd;male  ;0
+Hickman, Mr Stanley George;21.0;2nd;male  ;0
+Hiltunen, Miss Marta;18.0;2nd;female;0
+Hocking, Mrs Elizabeth;53.0;2nd;female;1
+Hocking, Mr George;23.0;2nd;male  ;0
+Hocking, Miss Ellen (Nellie);21.0;2nd;female;1
+Hodges, Mr Henry Price;52.0;2nd;male  ;0
+Hold, Mr Stephen;42.0;2nd;male  ;0
+Hold, Mrs Stephen (Annie Margaret);36.0;2nd;female;1
+Hood, Mr Ambrose, Jr;21.0;2nd;male  ;0
+Hosono, Mr Masafumi;41.0;2nd;male  ;1
+Hunt, Mr George Henry;33.0;2nd;male  ;0
+Ilett, Miss Bertha;17.0;2nd;female;1
+Jerwan, Mrs Amin S (Marie Thuillard);23.0;2nd;female;1
+Kantor, Mr Sii;34.0;2nd;male  ;0
+Karnes, Mrs J Frank (Claire Bennett);22.0;2nd;female;0
+Kelly, Mrs Florence (Fannie);45.0;2nd;female;1
+Kvillner, Mr Johan Henrik Johannesson;31.0;2nd;male  ;0
+Lahtinen, Rev William;30.0;2nd;male  ;0
+Lahtinen, Mrs William (An Sylvan);26.0;2nd;female;0
+Lemore, Mrs Amelia;34.0;2nd;female;1
+LaRoche, Mr Joseph;26.0;2nd;male  ;0
+LaRoche, Mrs Joseph (Juliet);22.0;2nd;female;1
+LaRoche, Miss Louise;1.0;2nd;female;1
+LaRoche, Miss Simonne;3.0;2nd;female;1
+Leyson, Mr Robert William Norman;25.0;2nd;male  ;0
+Louch, Mr Charles Alexander;48.0;2nd;male  ;0
+Mack, Mrs Mary;57.0;2nd;female;0
+Mallet, Master Andre;2.0;2nd;male  ;1
+Mantvila, Rev Joseph;27.0;2nd;male  ;0
+Marshall, Mrs Kate Louise Phillips;19.0;2nd;female;1
+Matthews, Mr William John;30.0;2nd;male  ;0
+Maybery, Mr Frank H;20.0;2nd;male  ;0
+McCrae, Mr Arthur Gordon;45.0;2nd;male  ;0
+McKane, Mr Peter D;46.0;2nd;male  ;0
+Mellenger, Mrs Elizabeth Anne;41.0;2nd;female;1
+Mellenger, Miss Madeleine Violet;13.0;2nd;female;1
+Mellor, Mr William John;19.0;2nd;male  ;1
+Meyer, Mr August;30.0;2nd;male  ;0
+Milling, Mr Jacob Christian;48.0;2nd;male  ;0
+Mitchell, Mr Henry Michael;71.0;2nd;male  ;0
+Moraweck, Dr Ernest;54.0;2nd;male  ;0
+Myles, Mr Thomas Francis;64.0;2nd;male  ;0
+sser (srallah), Mr Nicholas;32.0;2nd;male  ;0
+sser (srallah), Mrs Nicholas;18.0;2nd;female;1
+vratil, Master Edmond Roger;2.0;2nd;male  ;1
+vratil, Mr Michel;32.0;2nd;male  ;0
+vratil, Master Michel M;3.0;2nd;male  ;1
+Nesson, Mr Israel;26.0;2nd;male  ;0
+Nicholls, Mr Joseph Charles;19.0;2nd;male  ;0
+Nourney, Mr Alfred (aka Baron von Drachstedt);20.0;2nd;male  ;1
+Nye, Mrs Elizabeth Ramell;29.0;2nd;female;1
+Otter, Mr Richard;39.0;2nd;male  ;0
+Oxenham, Mr Percy Thomas;22.0;2nd;male  ;1
+Pain, Dr Alfred;24.0;2nd;male  ;0
+Parker, Mr Clifford R;28.0;2nd;male  ;0
+Parrish, Mrs Lutie Davis;50.0;2nd;female;1
+Pengelly, Mr Frederick;20.0;2nd;male  ;0
+Peruschitz, Rev Joseph M;40.0;2nd;male  ;0
+Phillips, Miss Alice;42.0;2nd;female;1
+Phillips, Mr Robert;21.0;2nd;male  ;0
+Pinsky, Miss Rosa;32.0;2nd;female;1
+Ponesell, Mr Martin;34.0;2nd;male  ;0
+Quick, Mrs Frederick C (Jane Richards);33.0;2nd;female;1
+Quick, Miss Phyllis May;2.0;2nd;female;1
+Quick, Miss Winifred Vera;8.0;2nd;female;1
+Reeves, Mr David;36.0;2nd;male  ;0
+Renouf, Mr Peter Henry;34.0;2nd;male  ;0
+Renouf, Mrs Peter Henry (Lillian Jefferys);30.0;2nd;female;1
+Reyldo, Mrs Encarcion;28.0;2nd;female;1
+Richard, Mr Emil;23.0;2nd;male  ;0
+Richards, Master George Sidney;0.8;2nd;male  ;1
+Richards, Mrs Sidney (Emily Hocking);25.0;2nd;female;1
+Richards, Master William Rowe;3.0;2nd;male  ;1
+Ridsdale, Miss Lucy;50.0;2nd;female;1
+Rugg, Miss Emily;21.0;2nd;female;1
+Shelley, Mrs William (Imanita);25.0;2nd;female;1
+Silven, Miss Lyyli;18.0;2nd;female;1
+Sincock, Miss Maude;20.0;2nd;female;1
+Siukonnen, Miss An;30.0;2nd;female;1
+Sjostedt, Mr Ernst Adolf;59.0;2nd;male  ;0
+Slayter, Miss Hilda Mary;30.0;2nd;female;1
+Slemen, Mr Richard James;35.0;2nd;male  ;0
+Smith (Schmidt), Mr Augustus;22.0;2nd;male  ;0
+Sobey, Mr Hayden;25.0;2nd;male  ;0
+Stanton, Mr Samuel Ward;41.0;2nd;male  ;0
+Stokes, Mr Philip Joseph;25.0;2nd;male  ;0
+Sweet, Mr George;14.0;2nd;male  ;0
+Toomey, Miss Ellen;50.0;2nd;female;1
+Troupiansky, Mr Moses Aaron;22.0;2nd;male  ;0
+Troutt, Miss Edwi Celia;27.0;2nd;female;1
+Turpin, Mr William John;29.0;2nd;male  ;0
+Turpin, Mrs William John (Dorothy Anne Woncott);27.0;2nd;female;0
+Veale, Mr James;30.0;2nd;male  ;0
+Waelens, Mr Achille;22.0;2nd;male  ;0
+Walcroft, Miss Nellie;35.0;2nd;female;1
+Ware, Mr John James;30.0;2nd;male  ;0
+Ware, Mrs John James (Florence Louise Long);28.0;2nd;female;1
+Ware, Mr William J;23.0;2nd;male  ;0
+Watt, Miss Bertha;12.0;2nd;female;1
+Watt, Mrs James (Bessie Inglis Milne);40.0;2nd;female;1
+Webber, Miss Susan;36.0;2nd;female;1
+Weisz, Mr Leopold;28.0;2nd;male  ;0
+Weisz, Mrs Leopold (Mathilde);32.0;2nd;female;1
+Wells, Mrs Arthur H (Addie Trevaskis);29.0;2nd;female;1
+Wells, Miss Joan;4.0;2nd;female;1
+Wells, Master Ralph Lester;2.0;2nd;male  ;1
+West, Mr Edwy Arthur;36.0;2nd;male  ;0
+West, Mrs Edwy Arthur (Ada Mary);33.0;2nd;female;1
+Wilhelms, Mr Charles;32.0;2nd;male  ;1
+Wright, Miss Marion;26.0;2nd;female;1
+Aldworth, Mr Charles Augustus;30.0;2nd;male  ;0
+Brown, Miss Mildred;24.0;2nd;female;1
+Swane, Mr George;18.0;2nd;male  ;0
+Abbing, Mr Anthony;42.0;3rd;male  ;0
+Abbott, Master Eugene Joseph;13.0;3rd;male  ;0
+Abbott, Mr Rossmore Edward;16.0;3rd;male  ;0
+Abbott, Mrs Stanton (Rosa);35.0;3rd;female;1
+Abelseth, Miss An Karen;16.0;3rd;female;1
+Abelseth, Mr Olaus;25.0;3rd;male  ;1
+Abraham, Mrs Joseph (Sophie Easu);18.0;3rd;female;1
+Abrahamsson, Mr August;20.0;3rd;male  ;1
+Adahl, Mr Mauritz Nils Martin;30.0;3rd;male  ;0
+Adams, Mr John;26.0;3rd;male  ;0
+Ahlin, Mrs Johan Persdotter;40.0;3rd;female;0
+Ahmed, Mr Ali;24.0;3rd;male  ;0
+Aijo-Nirva, Mr Isak;41.0;3rd;male  ;0
+Aks, Mrs Sam (Leah Rosen);18.0;3rd;female;1
+Aks, Master Philip;0.83;3rd;male  ;1
+Alexander, Mr William;23.0;3rd;male  ;0
+Alhomaki, Mr Ilmari Rudolf;20.0;3rd;male  ;0
+Ali, Mr William;25.0;3rd;male  ;0
+Allen, Mr William Henry;35.0;3rd;male  ;0
+Allum, Mr Owen George;17.0;3rd;male  ;0
+Andersen, Mr Albert Karvin;32.0;3rd;male  ;0
+Andersen, Mr Thor Olsvigen;20.0;3rd;male  ;0
+Andersson, Mr Anders Johan;39.0;3rd;male  ;0
+Andersson, Mrs Anders Johan (Alfrida K Brogren);39.0;3rd;female;0
+Andersson, Miss Ebba Iris;6.0;3rd;female;0
+Andersson, Miss Ellis An Maria;2.0;3rd;female;0
+Andersson, Miss Er;17.0;3rd;female;1
+Andersson, Miss Ida Augusta Margareta;38.0;3rd;female;0
+Andersson, Miss Ingeborg Constancia;9.0;3rd;female;0
+Andersson, Mr Johan Samuel;26.0;3rd;male  ;0
+Andersson, Miss Sigrid Elizabeth;11.0;3rd;female;0
+Andersson, Master Sigvard Harald Elias;4.0;3rd;male  ;0
+Andreasson, Mr Paul Edvin;20.0;3rd;male  ;0
+Angheloff, Mr Minko;26.0;3rd;male  ;0
+Arnold, Mr Josef;25.0;3rd;male  ;0
+Arnold, Mrs Josef (Josephine Frank);18.0;3rd;female;0
+Aronsson, Mr Ernst Axel Algot;24.0;3rd;male  ;0
+Asim, Mr Adola;35.0;3rd;male  ;0
+Asplund, Mr Carl Oscar Vilhelm Gustafsson;40.0;3rd;male  ;0
+Asplund, Mrs Carl Oscar (Selma Augusta Johansson);38.0;3rd;female;1
+Asplund, Master Carl Edgar;5.0;3rd;male  ;0
+Asplund, Master Clarence Gustaf Hugo;9.0;3rd;male  ;0
+Aspland, Master Edvin Rojj Felix;3.0;3rd;male  ;1
+Asplund, Master Filip Oscar;13.0;3rd;male  ;0
+Asplund, Mr John Charles;23.0;3rd;male  ;1
+Asplund, Miss Lillian Gertrud;5.0;3rd;female;1
+Assaf, Mrs Maria;45.0;3rd;female;1
+Assam, Mr Ali;23.0;3rd;male  ;0
+Attalah, Miss Malaka;17.0;3rd;female;0
+Attala (Kalil), Mr Solomon;27.0;3rd;male  ;0
+Augustsson, Mr Albert;23.0;3rd;male  ;0
+Baccos, Mr Rafoul;20.0;3rd;male  ;0
+Backstrom, Mr Karl Alfred;32.0;3rd;male  ;0
+Backstrom, Mrs Karl Alfred (Maria Mathilda Gustafsson);33.0;3rd;female;1
+Baclini, Miss Eugenie;3.0;3rd;female;1
+Badman, Miss Emily Louisa;18.0;3rd;female;1
+Badt, Mr Mohamed;40.0;3rd;male  ;0
+Balkic, Mr Cerin;26.0;3rd;male  ;0
+Banoura, Miss Ayout;15.0;3rd;female;1
+Barbara, Mrs Catherine;45.0;3rd;female;0
+Barbara, Miss Saude;18.0;3rd;female;0
+Barry, Miss Julia;27.0;3rd;female;0
+Barton, Mr David;22.0;3rd;male  ;0
+Beavan, Mr William Thomas;19.0;3rd;male  ;0
+Bengtsson, Mr John Viktor;26.0;3rd;male  ;0
+Berglund, Mr Karl Ivar Sven;22.0;3rd;male  ;0
+Betros, Mr Tannous;20.0;3rd;male  ;0
+Bing, Mr Lee;32.0;3rd;male  ;1
+Birkeland, Mr Hans;21.0;3rd;male  ;0
+Bjorklund, Ernst Herbert;18.0;3rd;male  ;0
+Bostandyeff, Mr Guentcho;26.0;3rd;male  ;0
+Boulos, Master Akar;6.0;3rd;male  ;0
+Boulos, Miss Laura;9.0;3rd;female;0
+Bourke, Mr John;40.0;3rd;male  ;0
+Bourke, Mrs John (Catherine);32.0;3rd;female;0
+Bowen, Mr David;26.0;3rd;male  ;0
+Bradley, Miss Bridget Delia;18.0;3rd;female;1
+Braf, Miss Elin Ester Maria;20.0;3rd;female;0
+Braund, Mr Lewis Richard;29.0;3rd;male  ;0
+Braund, Mr Owen Harris;22.0;3rd;male  ;0
+Brobek, Mr Karl Rudolf;22.0;3rd;male  ;0
+Brocklebank, Mr William Alfred;35.0;3rd;male  ;0
+Buckley, Mr Daniel;21.0;3rd;male  ;1
+Buckley, Miss Katherine;20.0;3rd;female;0
+Burke, Mr Jeremiah;19.0;3rd;male  ;0
+Burns, Miss Mary Delia;18.0;3rd;female;0
+Cacic, Mr Grego;18.0;3rd;male  ;0
+Cacic, Mr Luka;38.0;3rd;male  ;0
+Cacic, Mr Maria;30.0;3rd;male  ;0
+Calic, Mr Peter;17.0;3rd;male  ;0
+Cavan, Miss Mary;21.0;3rd;female;0
+Cavan, Mr Patrick;21.0;3rd;male  ;0
+Cann, Mr Ernest;21.0;3rd;male  ;0
+Carlsson, Mr Carl Robert;24.0;3rd;male  ;0
+Carlsson, Mr Frans Olof;33.0;3rd;male  ;0
+Carlsson, Mr Julius;33.0;3rd;male  ;0
+Carlsson, Mr August Sigfrid;28.0;3rd;male  ;0
+Carr, Miss Helen;16.0;3rd;female;1
+Carr, Miss Jeannie;37.0;3rd;female;0
+Carver, Mr Alfred John;28.0;3rd;male  ;0
+Celotti, Mr Francesco;24.0;3rd;male  ;0
+Chartens, Mr David;21.0;3rd;male  ;0
+Chip, Mr Chang;32.0;3rd;male  ;0
+Christmann, Mr Emil;29.0;3rd;male  ;0
+Chronopoulos, Mr Apostolos;26.0;3rd;male  ;0
+Chronopoulos, Mr Demetrios;18.0;3rd;male  ;0
+Coelho, Mr Domingos Ferndes;20.0;3rd;male  ;0
+Cohen, Mr Gurshon (Gus);19.0;3rd;male  ;1
+Colbert, Mr Patrick;24.0;3rd;male  ;0
+Coleff, Mr Fotio;24.0;3rd;male  ;0
+Coleff, Mr Peyo;36.0;3rd;male  ;0
+Conlin, Mr Thomas Henry;31.0;3rd;male  ;0
+Conghton, Mr Michael;31.0;3rd;male  ;0
+Connolly, Miss Kate;30.0;3rd;female;0
+Connolly, Miss Kate;22.0;3rd;female;1
+Cook, Mr Jacob;43.0;3rd;male  ;0
+Cor, Mr Bartol;35.0;3rd;male  ;0
+Cor, Mr Ivan;27.0;3rd;male  ;0
+Cor, Mr Ludovik;19.0;3rd;male  ;0
+Corn, Mr Harry;30.0;3rd;male  ;0
+Coutts, Mrs William (Minnie);36.0;3rd;female;1
+Coutts, Master Neville;3.0;3rd;male  ;1
+Coutts, Master William Leslie;9.0;3rd;male  ;1
+Coxon, Mr Daniel;59.0;3rd;male  ;0
+Crease, Mr Ernest James;19.0;3rd;male  ;0
+Cribb, Mr John Hatfield;44.0;3rd;male  ;0
+Cribb, Miss Laura Alice;17.0;3rd;female;1
+Dahl, Mr Charles Edward;45.0;3rd;male  ;1
+Dahlberg, Miss Gerda Ulrika;22.0;3rd;female;0
+Dakic, Mr Branko;19.0;3rd;male  ;0
+Daly, Mr Eugene;29.0;3rd;male  ;1
+Daly, Miss Marcella;30.0;3rd;female;1
+Danbom, Mr Ernst Gilbert;34.0;3rd;male  ;0
+Danbom, Mrs Ernst Gilbert (An Sigrid Maria Brogren);28.0;3rd;female;0
+Danbom, Master Gilbert Sigvard Emanuel;0.33;3rd;male  ;0
+Danoff, Mr Yoto;27.0;3rd;male  ;0
+Dantchoff, Mr Khristo;25.0;3rd;male  ;0
+Davies, Mr Alfred;24.0;3rd;male  ;0
+Davies, Mr Evan;22.0;3rd;male  ;0
+Davies, Mr John;21.0;3rd;male  ;0
+Davies, Mr Joseph;17.0;3rd;male  ;0
+Dean, Mr Bertram;26.0;3rd;male  ;0
+Dean, Mrs Bertram (Eva);33.0;3rd;female;1
+Dean, Master Bertram Vere;1.0;3rd;male  ;1
+Dean, Miss Elizabeth Gladys (Millve);0.17;3rd;female;1
+Delalic, Mr Regyo;25.0;3rd;male  ;0
+De Messemaeker, Mr William Joseph;36.0;3rd;male  ;1
+De Messemaeker, Mrs William Joseph (An);36.0;3rd;female;1
+De Mulder, Mr Theo;30.0;3rd;male  ;1
+Dennis, Mr Samuel;23.0;3rd;male  ;0
+Dennis, Mr William;26.0;3rd;male  ;0
+Devaney, Miss Margaret;19.0;3rd;female;1
+Dewan, Mr Frank;65.0;3rd;male  ;0
+Dimic, Mr Jovan;42.0;3rd;male  ;0
+Dintcheff, Mr Valtcho;43.0;3rd;male  ;0
+Dooley, Mr Patrick;32.0;3rd;male  ;0
+Dorkings, Mr Edward Arthur;19.0;3rd;male  ;1
+Dowdell, Miss Elizabeth;30.0;3rd;female;1
+Doyle, Miss Elizabeth;24.0;3rd;female;0
+Drapkin, Miss Jennie;23.0;3rd;female;1
+Driscoll, Miss Bridget;24.0;3rd;female;1
+Duquemin, Mr Joseph;24.0;3rd;male  ;1
+Dyker, Mr Adolf Fredrik;23.0;3rd;male  ;0
+Dyker, Mrs Adolf Fredrik (An Elizabeth Judith Andersson);22.0;3rd;female;1
+Edvardsson, Mr Gustaf Hjalmar;18.0;3rd;male  ;0
+Eklund, Mr Hans Linus;16.0;3rd;male  ;0
+Ekstrom, Mr Johan;45.0;3rd;male  ;0
+Elsbury, Mr James;47.0;3rd;male  ;0
+Emanuel, Miss Virginia Ethel;5.0;3rd;female;1
+Ford, Miss Dooli Margaret;21.0;3rd;female;0
+Ford, Mr Edward Watson;18.0;3rd;male  ;0
+Ford, Miss Maggie;9.0;3rd;female;0
+Ford, Mrs Edward (Margaret Ann);48.0;3rd;female;0
+Ford, Mr Neil Watson;16.0;3rd;male  ;0
+Gallagher, Mr Martin;25.0;3rd;male  ;0
+Georges, Mrs Shahini Weappi;38.0;3rd;female;1
+Gilinski, Mr Leslie;22.0;3rd;male  ;0
+Gilgh, Miss Katie;16.0;3rd;female;1
+Goldsmith, Mr Frank John;33.0;3rd;male  ;0
+Goldsmith, Master Frank John William;9.0;3rd;male  ;1
+Goldsmith, Mr than;41.0;3rd;male  ;0
+Goncalves, Mr Manuel Estanslas;38.0;3rd;male  ;0
+Goodwin, Mr Frederick;40.0;3rd;male  ;0
+Goodwin, Mrs Frederick (Augusta);43.0;3rd;female;0
+Goodwin, Mr Charles E;14.0;3rd;male  ;0
+Goodwin, Miss Lillian A;16.0;3rd;female;0
+Goodwin, Master Harold V;9.0;3rd;male  ;0
+Goodwin, Miss Jessie A;10.0;3rd;female;0
+Goodwin, Master Sidney L;6.0;3rd;male  ;0
+Goodwin, Master William F;11.0;3rd;male  ;0
+Green, Mr George;40.0;3rd;male  ;0
+Gronnestad, Mr Daniel Danielsen;32.0;3rd;male  ;0
+Gustafsson, Mr Alfred Ossian;20.0;3rd;male  ;0
+Gustafsson, Mr Anders Vilhelm;37.0;3rd;male  ;0
+Gustafsson, Mr Johan Birger;28.0;3rd;male  ;0
+Gustafsson, Mr Karl Gideon;19.0;3rd;male  ;0
+Haas, Miss Aloisia;24.0;3rd;female;0
+Hagardon, Miss Kate;17.0;3rd;female;0
+Hakkarainen, Mr Pekko Pietari;28.0;3rd;male  ;0
+Hakkarainen, Mrs Pekko Pietari;24.0;3rd;female;1
+Hampe, Mr Leon;20.0;3rd;male  ;0
+Hansen, Mr Claus Peter;41.0;3rd;male  ;0
+Hansen, Mrs Claus Peter;45.0;3rd;female;1
+Hansen, Mr Henrik Juul;26.0;3rd;male  ;0
+Hansen, Mr Henry Damsgaard;21.0;3rd;male  ;0
+Hedman, Mr Oscar;27.0;3rd;male  ;1
+Hegarty, Miss Nora;18.0;3rd;female;0
+Heikkinen, Miss Lai;26.0;3rd;female;1
+Heininen, Miss Wendla Maria;23.0;3rd;female;0
+Hellstrom, Hilda Maria;22.0;3rd;female;1
+Henriksson, Jenny Lovisa;28.0;3rd;female;0
+Hirvonen, Mrs Alexander;22.0;3rd;female;1
+Hirvonen, Miss Hildur E;2.0;3rd;female;0
+Holm, Mr John Frederik Alexander;43.0;3rd;male  ;0
+Honkanen, Miss Elu;27.0;3rd;female;1
+Humblin, Mr Adolf Mathias Nicolai Olsen;42.0;3rd;male  ;0
+Ilmakangas, Miss Ida Livija;27.0;3rd;female;0
+Ilmakangas, Miss Pieta Sofia;25.0;3rd;female;0
+Jansen, Mr Carl Olof;27.0;3rd;male  ;1
+Jensen, Miss Carla Christine;19.0;3rd;female;1
+Jensen, Mr Hans Peder;20.0;3rd;male  ;0
+Jensen, Mr Niels Peder;48.0;3rd;male  ;0
+Jensen, Mr Svend Lauritz;17.0;3rd;male  ;0
+Johanson, Mr Jakob Alfred;34.0;3rd;male  ;0
+Johansson, Mr Erik;22.0;3rd;male  ;0
+Johansson, Mr Gustaff Joel;33.0;3rd;male  ;0
+Johansson, Mr Karl Johan;32.0;3rd;male  ;1
+Johansson, Mr Nils;29.0;3rd;male  ;0
+Johansson, Oscar L;26.0;3rd;male  ;1
+Johnson, Mr Alfred;49.0;3rd;male  ;0
+Johnson, Miss Eleanor Ileen;1.0;3rd;female;1
+Johnson, Mr Malkolm Joackim;33.0;3rd;male  ;0
+Johnson, Master Harold Theodor;4.0;3rd;male  ;1
+Johnson, Mrs Oscar W;24.0;3rd;female;0
+Johnson, Mr William Cahoone Jr;19.0;3rd;male  ;0
+Jonsson, Mr Carl;32.0;3rd;male  ;1
+Jonsson, Nils Hilding;27.0;3rd;male  ;0
+Jussila, Miss Ai Maria;21.0;3rd;female;0
+Jussila, Mr Erik;32.0;3rd;male  ;1
+Jussila, Miss Katrii;20.0;3rd;female;0
+Kallio, Mr Nikolai Erland;17.0;3rd;male  ;0
+Kalvig, Mr Johannes K Halverson;21.0;3rd;male  ;0
+Karajic, Mr Milan;30.0;3rd;male  ;0
+Karlsson, Mr Eir Gervasius;21.0;3rd;male  ;1
+Karlsson, Mr Julius Konrad Eugen;23.0;3rd;male  ;0
+Karlsson, Mr Nils August;22.0;3rd;male  ;0
+Karun, Miss An Mary;4.0;3rd;female;1
+Karun, Mr Franz;39.0;3rd;male  ;0
+Keane, Mr Andrew;20.0;3rd;male  ;0
+Kelly, Miss An Kate;21.0;3rd;female;1
+Kelly, Mr James;44.0;3rd;male  ;0
+Kelly, Mr James;42.0;3rd;male  ;0
+Kelly, Miss Mary;21.0;3rd;female;1
+Kennedy, Mr John;24.0;3rd;male  ;0
+Kiern, Mr John;25.0;3rd;male  ;0
+Kiern, Mr Philip;22.0;3rd;male  ;0
+Kilgannon, Mr Thomas;22.0;3rd;male  ;0
+Kink, Mr Anton;39.0;3rd;male  ;1
+Kink, Mrs Anton (Louise Heilmann);26.0;3rd;female;0
+Kink, Miss Louise Gretchen;4.0;3rd;female;1
+Kink, Miss Maria;22.0;3rd;female;0
+Kink, Mr Vincenz;26.0;3rd;male  ;0
+Klasen, Miss Gertrud Emilia;1.5;3rd;female;0
+Klasen, Mrs Hulda Kristi;36.0;3rd;female;0
+Klasen, Mr Klas Albin;18.0;3rd;male  ;0
+Krekorian, Mr Neshan;25.0;3rd;male  ;1
+Laitinen, Miss Kriti Sofia;37.0;3rd;female;0
+Landegren, Miss Aurora Adelia;22.0;3rd;female;1
+Lane, Mr Patrick;20.0;3rd;male  ;0
+Lang, Mr Fang;26.0;3rd;male  ;1
+Larsson, Mr August Viktor;29.0;3rd;male  ;0
+Larsson, Mr Bengt Edvin;29.0;3rd;male  ;0
+Larsson-Rondberg, Mr Edvard;22.0;3rd;male  ;0
+Leinonen, Mr Antti Gustaf;32.0;3rd;male  ;0
+Lemom, Mr Denis;21.0;3rd;male  ;0
+Lemon, Miss Mary;21.0;3rd;female;0
+Leord, Mr Lionel;36.0;3rd;male  ;0
+Lester, Mr James;39.0;3rd;male  ;0
+Lindahl, Miss Agda V;25.0;3rd;female;0
+Lindblom, Miss Augusta Charlotta;45.0;3rd;female;0
+Lindell, Mr Edvard Bengtsson;36.0;3rd;male  ;0
+Lindell, Mrs Edvard Bengtsson;30.0;3rd;female;0
+Lindqvist, Eino William;20.0;3rd;male  ;1
+Melkebuk, Mrs Philemon;23.0;3rd;female;0
+Salander, Mr Karl Johan;21.0;3rd;male  ;0
+Sandstrom, Miss Beatrice Irene;1.5;3rd;female;0
+Tornquist, Mr William Henry;25.0;3rd;male  ;1
+Turja, Miss An Sofia;18.0;3rd;female;1
+Turkula, Mrs Hedvig;63.0;3rd;female;1
+Van der Planke, Miss Augusta;18.0;3rd;female;0
+Van der Planke, Mr Jules;31.0;3rd;male  ;0
+Van der Planke, Mrs Jules;31.0;3rd;female;0
+Van der Planke, Mr Leon;15.0;3rd;male  ;0
+Van der Steen, Mr Leo Peter;28.0;3rd;male  ;0
+Van de Velde, Mr John Joseph;36.0;3rd;male  ;0
+Vandewalle, Mr Nestor Cyriel;28.0;3rd;male  ;0
+Van Impe, Miss Catharine;10.0;3rd;female;0
+Van Impe, Mr Jean Baptiste;36.0;3rd;male  ;0
+Van Impe, Mrs Jean Baptiste;30.0;3rd;female;0
+Vartunian, Mr David;22.0;3rd;male  ;1
+Vendel, Mr Olof Wdvin;29.0;3rd;male  ;0
+Vereruysse, Mr Victor;47.0;3rd;male  ;0
+Vestrom, Miss Hulda Amanda Adolfi;14.0;3rd;female;0
+Vonk, Mr Jenko;22.0;3rd;male  ;0
+Widegren, Mr Charles Peter;51.0;3rd;male  ;0
+Wiklund, Mr Jacob Alfred;18.0;3rd;male  ;0
+Wilkes, Mrs Ellen;45.0;3rd;female;1
+Williams, Mr Leslie;28.0;3rd;male  ;0
+Windelov, Mr Eir;21.0;3rd;male  ;0
+Wirz, Mr Albert;27.0;3rd;male  ;0
+Wittevrongel, Mr Camiel;36.0;3rd;male  ;0
+Yasbeck, Mr Antoni;27.0;3rd;male  ;0
+Yasbeck, Mrs Antoni;15.0;3rd;female;1
+Zakarian, Mr Artun;27.0;3rd;male  ;0
+Zakarian, Mr Maprieder;26.0;3rd;male  ;0
+Zenni, Mr Philip;22.0;3rd;male  ;0
+Lievens, Mr Rene;24.0;3rd;male  ;0
+Zimmerman, Leo;29.0;3rd;male  ;0
